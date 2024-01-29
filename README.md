@@ -10,5 +10,5 @@ python3 -m venv qt_environment
 
 ```bash
 source qt_environment/bin/activate
-pip install requirements.txt
+pip install -r requirements.txt
 ```
